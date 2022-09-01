@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FineArtViewer</string>
+    <string name="horizontal_btn">Horizontal</string>
+    <string name="vertical_btn">Vertical</string>
+    <string name="grid_btn">Grid</string>
+    <string name="title">Title (2022)</string>
+    <string name="medium">Medium</string>
+    <string name="size">Size</string>
+    <string name="title_activity_fullscreen_image">FullscreenImageActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="close">Close</string>
+</resources>
